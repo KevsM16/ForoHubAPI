@@ -1,7 +1,7 @@
   <h1>FOROHUB API</h1>
     <h3>What's foro hub api</h3>
     <p>Forohub api is an apiRest leading anyone to write their questions about programm and 
-        this questions will be answered</p>
+        this questions will be answered by experts or professors </p>
     <p>This foro has the implementation of the CRUD principles (CREATE,READ,UPDATE AND DELETE)
         and also the best security practices JWT(JSON WEB TOKEN ) </p>
     <h4>Technologies</h4>
