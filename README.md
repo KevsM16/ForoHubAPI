@@ -4,7 +4,6 @@
         this questions will be answered</p>
     <p>This foro has the implementation of the CRUD principles (CREATE,READ,UPDATE AND DELETE)
         and also the best security practices JWT(JASON WEB TOKEN ) </p>
-
     <h4>Technologies</h4>
     <ul>
         <li>JAVA</li>
@@ -12,7 +11,6 @@
         <li>MYSQL DATABASE</li>
         <li>JASON WEB TOKEN </li>
     </ul>
-
     <h4>How to download the document?</h4>
     <p>you must click on the green buttom and select the download zip option and then open with the editor you use to programm in java</p>
     <p>I hope my programm will be helpful with your projects and ideas :D</p>
