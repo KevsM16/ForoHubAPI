@@ -3,7 +3,7 @@
     <p>Forohub api is an apiRest leading anyone to write their questions about programm and 
         this questions will be answered</p>
     <p>This foro has the implementation of the CRUD principles (CREATE,READ,UPDATE AND DELETE)
-        and also the best security practices JWT(JASON WEB TOKEN ) </p>
+        and also the best security practices JWT(JSON WEB TOKEN ) </p>
     <h4>Technologies</h4>
     <ul>
         <li>JAVA</li>
